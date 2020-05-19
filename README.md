@@ -1,1 +1,1 @@
-# Acme_Project_React
+# acme-company-products-react-intro
